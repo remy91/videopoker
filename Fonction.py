@@ -1,4 +1,3 @@
-import pandas as pd
 import random
 from VideoPoker import gagne as gg
 
